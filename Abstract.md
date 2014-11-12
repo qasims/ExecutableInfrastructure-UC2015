@@ -8,4 +8,4 @@ This contribution describes a development and deployment philosophy which adopts
 
 The adoption of this methodology helps to solve the problems of sustainably maintaining service configuration, improving communication between site operations and service developers, ensuring the proper state of services, and verifying the state of deployment.  
 
-Some of the main benefits of this approach are speeding up the deployment of new services, reliably applying updates and recovering from disaster. In this contribution, we highlight how this has helped to deploy federated identity infrastructure and science gateways throughout the region in short time.
+Some of the main benefits of this approach are speeding up the deployment of new services, reliably applying updates and recovering from disaster. In this contribution, we highlight how this has helped to deploy federated identity infrastructure, science gateways and Open Access repositories throughout the region in short time.
