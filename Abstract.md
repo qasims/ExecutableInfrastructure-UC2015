@@ -4,7 +4,8 @@ Authors:
   - Bruce Becker
   - Marco Fargetta
   - Chris Lee
-  -  Rahim Bouchra
+  - Rahim Bouchra
+  - Sakhile Masoka
   - Damas Makweba
   - Ashraf Kassem
   - qasim
