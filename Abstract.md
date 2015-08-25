@@ -1,13 +1,5 @@
 ---
 title: Executable Infrastructure for Collaboration at Regional Level.
-Authors:
-  - Bruce Becker
-  - Marco Fargetta
-  - Chris Lee
-  - Rahim Bouchra
-  - Damas Makweba
-  - Ashraf Kassem
-  - qasim
 ---
 
 # "Executable Infrastructure for Collaboration at Regional Level."
