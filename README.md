@@ -1,4 +1,4 @@
-ISGC2014
-========
+Ubuntunet Connect 2015
+======================
 
-Repository to hold the material contributed to the ISGC 2014 event. 
+Repository to hold the material contributed to the Ubuntunet Connect 2015 event. 
