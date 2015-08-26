@@ -1,0 +1,30 @@
+---
+name: Authors.yml
+---
+
+- brucellino:
+  - FullName: Bruce  Becker
+  - Institute: Council for Scientific and Industrial Research (CSIR)
+  - Address: 1 Meiring Naude Road, Pretoria, 0001, South Africa
+  - email: bbecker@csir.co.za
+
+- fmarco76:
+  - FullName: Marco Fargetta
+  - Institute: Italian National Institute for Nuclear Physics (INFN)
+  - Address: Via Santa Sofia, 64 - 95123 Catania. Italy
+  - email: marco.fargetta@ct.infn.it
+
+- akasem: 
+  - FullName: Ashraf Kasem  
+  - Institute: Zewail City of Science and Technology 
+  - Address: Sheikh Zayed District, 6th of October City, 12588, Giza, Egypt.
+  - Institute: Ain Shams University
+  - Address: Address: Khalifa El-Maamon st, Abbasiya sq., 11566, Cairo, Egypt. 
+  - email: ashraf_mohamed@sci.asu.edu.eg
+
+- kalvaer:
+  - FullName: Christopher Jon Lee
+  - Institute: University of Cape Town (UCT)
+  - Address: Rondebosch, Cape Town, 7700, South Africa
+  - email: chris.lee@cern.ch
+---
